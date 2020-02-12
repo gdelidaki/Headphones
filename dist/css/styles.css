@@ -152,7 +152,7 @@ img {
 
 .section-footer {
     background: var(--primary-color);
-    color: #fff;
+    color: rgb(165, 56, 56);
     padding: 4rem 0;
 }
 
